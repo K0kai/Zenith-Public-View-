@@ -12,16 +12,20 @@ Speaking of, we can't just blindly handle stuff on screen and immediately click 
 It also has built in functions to convert CSVs to Excel, and also convert Excel to PDF, this is what it uses to generate our daily "Pallet Putaway Report" a pdf is generated programmatically with everything our team needs in the report, which in this case is the container, pallet and location.
 
 ## Images
-"Login" Menu:
+### "Login" Menu:
+
 ![Screenshot 2025-05-28 135855](https://github.com/user-attachments/assets/782e9e19-8a54-4061-bcb5-fbe171373b7c)
 
-After access is granted:
+### After access is granted:
+
 ![Screenshot 2025-05-28 135928](https://github.com/user-attachments/assets/a80b870e-b9d2-4a41-926e-aa811d33c8dd)
 
-Receiving screen:
+### Receiving screen:
+
 ![Screenshot 2025-05-28 140210](https://github.com/user-attachments/assets/a23587a8-ce74-41e2-8c1f-913868c2385d)
 
-A container's release and items:
+### A container's release and items:
+
 ![Screenshot 2025-05-28 140235](https://github.com/user-attachments/assets/d46df240-95b8-4ac3-9a5d-878491dcf3d0)
 
 ## Video samples (TBD):
