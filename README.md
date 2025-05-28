@@ -1,6 +1,10 @@
 # Zenith
 This repository is merely to show my automation I made for work, however I cannot share the code as it has somewhat sensitive info. That being said, lets learn more about it
 
+## Technologies:
+
+### C#, Winforms, EmguCV, EPPlus, Tailscale VPN (To access my server)
+
 ## What it does:
 
 Much of what it does is based on screen image identifier and locator, it takes a screenshot of the screen(s) and does a quick comparation to try and find said window/button/etc on screen, this is done with the help of the very useful EmguCV
