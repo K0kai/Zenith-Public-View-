@@ -3,7 +3,7 @@ This repository is merely to show my automation I made for work, however I canno
 
 ## Technologies:
 
-### C#, Winforms, EmguCV, EPPlus, Tailscale VPN (To access my server)
+### [C#](https://dotnet.microsoft.com/pt-br/languages/csharp), [.NET Framework](https://dotnet.microsoft.com/pt-br/download/dotnet-framework) and [Winforms](https://learn.microsoft.com/pt-br/dotnet/desktop/winforms/overview/), [EmguCV](https://www.emgu.com/wiki/index.php?title=Main_Page) (For image search on screen), [EPPlus](https://www.epplussoftware.com) (For Excel file handling), [DiscordBot](https://discord.com/developers/docs/intro) (For authentication), [Tailscale VPN](https://tailscale.com) (To access my server)
 
 ## What it does:
 
