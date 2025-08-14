@@ -34,4 +34,8 @@ It also has built in functions to convert CSVs to Excel, and also convert Excel 
 
 ## Video samples (TBD):
 
+### Item Code Extraction:
+https://github.com/user-attachments/assets/8be6ba1b-1399-4d5b-ae0f-b0d883cc2300
+
+
 
